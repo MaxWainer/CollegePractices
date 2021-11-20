@@ -1,4 +1,2 @@
 # CollegePractices
-# CollegePractices
-# CollegePractices
-# CollegePractices
+
