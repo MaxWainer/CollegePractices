@@ -1,0 +1,4 @@
+
+class wrapped_string {
+
+};
