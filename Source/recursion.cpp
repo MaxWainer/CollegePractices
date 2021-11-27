@@ -7,6 +7,7 @@
 #include <cstring>
 #include <sstream>
 #include <iostream>
+// Huh
 
 #define OPEN_DIR_PREFIX std::string("OpenDir: ")
 #define RED_DIR_PREFIX std::string("ReadDir: ")
