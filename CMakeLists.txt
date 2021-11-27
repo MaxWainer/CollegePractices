@@ -4,4 +4,4 @@ cmake_minimum_required(VERSION 3.10)
 project(CollegePractices)
 
 # add the executable
-add_executable(CollegePractices Source/main.cpp)
+add_executable(CollegePractices Source/main.cpp Source/recursion.cpp Source/mb.cpp)
